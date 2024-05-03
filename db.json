@@ -47,14 +47,25 @@
   ],
   "appointments": [
     {
-      "vet": "ASDASD",
-      "reason": "ASDASD",
+      "vet": "Salud Animal",
+      "reason": "Chequeo general y vacunación",
       "details": [
-        "ASDASD"
+        "Recordar llevar el historial médico de Luna",
+        "Preparar a Luna para la cita con anticipación, asegurándose que esté comoda y tranquila"
       ],
-      "date": "ASDASD",
-      "hour": "ASDASD",
+      "date": "20/04/2024",
+      "hour": "3:00 pm",
       "id": "1"
+    },
+    {
+      "vet": "Salud Animal",
+      "reason": "Baño y desparasitación",
+      "details": [
+        "Preparar a Luna para la cita con anticipación, asegurándose que esté comoda y tranquila"
+      ],
+      "date": "15/05/2024",
+      "hour": "4:00 pm",
+      "id": "2"
     }
   ],
   "treatments": [
